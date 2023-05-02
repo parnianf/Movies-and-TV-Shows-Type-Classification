@@ -1,8 +1,8 @@
 # Netflix-And-Amazon-Movies-and-TV-Shows-Classification
 
 
+This project aims to classify movies and TV shows based on their type (i.e., movies or TV shows) using machine learning algorithms. 
 
-In this project, the aim is to get acquainted with machine learning methods by `scikit-learn` library. 
 
 This project is defined in four phases:
   * Phase 0: Exploratory Data Analysis(EDA)
